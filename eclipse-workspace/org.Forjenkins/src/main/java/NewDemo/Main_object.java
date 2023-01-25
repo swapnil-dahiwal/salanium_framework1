@@ -7,6 +7,7 @@ public class Main_object {
 		
 	
 		System.out.print("hello jenkins");
+		System.out.println("i am in git hub");
 		
 
 	}
